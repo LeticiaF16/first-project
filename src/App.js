@@ -3,6 +3,10 @@ import './App.css';
 import Tela from './Tela';
 
 function App() {
+    function addNovaCoisa() {
+        //finge que tem um codigo gigante aqui !!kkk
+    }
+
     return (
         <>
             <h1> Bem vindo a uma tela de login </h1>
