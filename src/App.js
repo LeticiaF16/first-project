@@ -10,7 +10,6 @@ function App() {
             <input name="email" placeholder="digite um email" />
             <button>Entrar</button>
             <Tela />
-
         </>
     );
 }
