@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Tela from './Tela';
 
 function App() {
     return (
@@ -8,6 +9,8 @@ function App() {
             <input name="nome" placeholder="digite um nome" />
             <input name="email" placeholder="digite um email" />
             <button>Entrar</button>
+            <Tela />
+
         </>
     );
 }
